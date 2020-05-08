@@ -1,0 +1,21 @@
+body{
+	background-color:orange;
+}
+h2{
+	font-family:Arial;
+    border-style:solid;
+	text-align:center;
+	background-color:pink;
+}
+h3{
+	font-family:Arial;
+	border-style:soild;
+	border-spacing:5ptx;
+	background-color:green;
+}
+p{
+	font-family:Arial;
+	border-style:solid;
+	background-color:yellow;
+}
+	

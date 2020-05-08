@@ -1,0 +1,56 @@
+body{
+background-color: #212F3D;
+}
+h1{
+background-color:green;
+border-style:solid;
+border-color:blue;
+text-align:center;
+  font-family: Arial;
+  font-size: 200%;
+	}
+		
+	
+	
+	p1
+	{
+	border-style:solid;
+	border-color:black;
+	background-color:MediumSeaGreen;
+	word-spacing:200;
+	font-family: Arial;
+	font-size:150%
+	}
+	
+	p2{
+	font-family: Arial;
+	font-size:100%;
+	color:pink;
+	}
+	
+	p3{
+	color :pink;
+	border-style:solid;
+	border-color:black;
+	background-color:black;
+	font-family: Arial;
+	font-size:100%
+	}
+	
+	h3{
+color:white;
+
+
+	}
+	h2{
+		color:white;
+	}
+	footer{
+	    
+		color:white;
+		border-style:solid;
+		border-color:red;
+		background-color:black;
+		font-family: Arial;
+		font-size:100%;
+	}

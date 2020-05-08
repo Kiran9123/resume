@@ -1,0 +1,23 @@
+body{
+	background-color:orange;
+}
+
+P{
+	font-family:arial;
+	background-color:green;
+}
+ul{
+	font-family:arial;
+}
+p{
+	border-style:solid;
+	border-color:black;
+}
+p{
+	border-color:green;
+}
+h3{
+	font-family:Times New Roman;
+	background-color:gray;
+}
+}
